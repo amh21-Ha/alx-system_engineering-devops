@@ -3,7 +3,7 @@
 
 
 def recurse(subreddit, hot_list=[], count=0, after=None):
-    """Queries the Reddit API and returns all hot posts
+    """Queries the Reddit API and returns all of the hot posts
     of the subreddit"""
     import requests
 
