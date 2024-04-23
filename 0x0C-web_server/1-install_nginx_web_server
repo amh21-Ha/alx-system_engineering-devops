@@ -1,4 +1,4 @@
-nstalls Nginx with the following configurations:
+#Installs Nginx with the following configurations:
 ## server
 ## Nginx should be listening on port 80
 ## When querying Nginx at its root / with a GET request (requesting a page)\
