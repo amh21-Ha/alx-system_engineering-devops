@@ -1,5 +1,4 @@
-
-f high amount files opened
+# open a file without any error message
 
 exec  { 'replace-1':
     provider => shell,
